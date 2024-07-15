@@ -1,0 +1,14 @@
+C:\Users\Pedro Pontes\Documents\cs-webapi\bin\Debug\net8.0\cs-webapi.exe
+C:\Users\Pedro Pontes\Documents\cs-webapi\bin\Debug\net8.0\cs-webapi.deps.json
+C:\Users\Pedro Pontes\Documents\cs-webapi\bin\Debug\net8.0\cs-webapi.runtimeconfig.json
+C:\Users\Pedro Pontes\Documents\cs-webapi\bin\Debug\net8.0\cs-webapi.dll
+C:\Users\Pedro Pontes\Documents\cs-webapi\bin\Debug\net8.0\cs-webapi.pdb
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\cs-webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\cs-webapi.AssemblyInfoInputs.cache
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\cs-webapi.AssemblyInfo.cs
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\cs-webapi.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\cs-webapi.dll
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\refint\cs-webapi.dll
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\cs-webapi.pdb
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\cs-webapi.genruntimeconfig.cache
+C:\Users\Pedro Pontes\Documents\cs-webapi\obj\Debug\net8.0\ref\cs-webapi.dll
